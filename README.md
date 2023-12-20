@@ -1,5 +1,5 @@
 ### ようこそカグア！です 👋
-
+このGitHubでは、私が過去に作った、ちょっとしたスクリプトレベルのコードを公開しています。ほぼコード置き場になっていますが、使えそうなものがあればお気軽にどうぞ。問い合わせなどは、**@creator_enews** でお願いします。
 <!--
 **kagua/kagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
